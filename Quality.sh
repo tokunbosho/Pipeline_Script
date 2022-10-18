@@ -1,1 +1,2 @@
-echo "Quality Gate Check : %date% : %time%"
+#! /bin/bash
+echo "Quality Gate Check"
